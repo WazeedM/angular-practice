@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Wazeed",
+    "designation": "Web Developer",
+    "authenticated": true
+  },
+  {
+    "id": 2,
+    "name": "Akhil",
+    "designation": "Web Developer",
+    "authenticated": true
+  },
+  {
+    "id": 3,
+    "name": "Icee",
+    "designation": "Web Developer",
+    "authenticated": true
+  },
+  {
+    "id": 4,
+    "name": "Ishu",
+    "designation": "Web Developer",
+    "authenticated": true
+  }
+]
